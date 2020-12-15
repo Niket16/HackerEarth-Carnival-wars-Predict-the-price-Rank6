@@ -1,1 +1,21 @@
-# HackerEarth-Carnival-wars-Predict-the-price-Rank6-
+# HackerEarth-Carnival-wars-Predict-the-price-Rank6
+
+# Problem statement
+Halloween is a night of costumes, fun, and candy that takes place every year on October 31. On this day people dress up in various costumes that have a scary overtone and go trick-or-treating to gather candy.
+
+This year, on Halloween, there is a carnival in your neighborhood. Besides the various games, there are also 50 stalls that are selling various products, which fall under various categories.
+
+Your task is to predict the selling price of the products based on the provided features. 
+
+Hackerearth Link : https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/problems/
+
+# Evaluation metric
+
+score = max(0,100- RMSLE(actualValue, predictedValue))
+
+# My submission
+Algorithm - Stacked Extra tree regressor
+
+My final score : 91.88307
+
+Rank : 6
